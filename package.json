@@ -1,0 +1,79 @@
+{
+  "name": "mock-package",
+  "version": "1.0.0",
+  "description": "Mock Package for Testing",
+  "main": "code/libraries/MockPackage",
+  "scripts": {
+    "test": "code/services/mock"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rreinold/MockPackage.git"
+  },
+  "asset_types":[
+    "Code Libraries",
+    "Code Services",
+    "Portals",
+    "Collections",
+    "Triggers",
+    "Adapters",
+    "Roles",
+    "Timers",
+    "Plugins",
+    "Users",
+    "Edges",
+    "Devices"
+  ],
+  "keywords": [
+    "k1",
+    "k2",
+    "k3",
+    "k4",
+    "k5",
+    "k6",
+    "k7",
+    "k8",
+    "k9"
+  ],
+  "programming_lang":[
+    "p1"
+  ],
+  "cloud":[
+    "c1",
+    "c2"
+    ],
+  "things":[
+    "t1",
+    "t2",
+    "t3"
+    ],
+  "domains": [
+    "IIoT",
+    "Device Management",
+    "Building Management",
+    "Fleet Management"
+  ],
+  "protocols":[
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8"],
+  "gateways":[],
+  "author": {"email":"mock@clearblade.com"},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rreinold/MockPackage/issues"
+  },
+  "homepage": "https://github.com/rreinold/MockPackage#readme",
+  "dependencies": [
+    "d1",
+    "d2"
+  ],
+  "image_url":"https://raw.githubusercontent.com/rreinold/IoT_Package_SendGrid_Email_Integration/master/banner.png",
+  "author":{"email":"rreinold@clearblade.com"},
+  "private":false
+}

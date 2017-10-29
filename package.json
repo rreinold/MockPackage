@@ -35,10 +35,10 @@
     "k8",
     "k9"
   ],
-  "programming_lang":[
+  "prog_lang":[
     "p1"
   ],
-  "cloud":[
+  "clouds":[
     "c1",
     "c2"
     ],
@@ -74,6 +74,5 @@
     "d2"
   ],
   "image_url":"https://raw.githubusercontent.com/rreinold/IoT_Package_SendGrid_Email_Integration/master/banner.png",
-  "author":{"email":"rreinold@clearblade.com"},
   "private":false
 }
